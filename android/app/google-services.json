@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626912240504",
+    "project_id": "chathere-9ab40",
+    "storage_bucket": "chathere-9ab40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626912240504:android:e55e6bc4f72ca10cb2de8d",
+        "android_client_info": {
+          "package_name": "com.example.chat_here"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626912240504-02urn448h6d4aoeh1uc9vl01th6q843t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7N7WpppK7RRQgjogqNXemLVkZXToEJ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626912240504-02urn448h6d4aoeh1uc9vl01th6q843t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
