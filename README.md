@@ -17,4 +17,4 @@ Create a profile using an unique email and a profile picture and then text any u
 * **step-3**
     Run `main.dart` file
 
-Any suggetion will be apricieted
+Any suggetion will be appricieted
